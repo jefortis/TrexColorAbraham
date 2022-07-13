@@ -1,2 +1,2 @@
-# TrexColorAbraham
-TrexColorAbraham C18
+# TrexColorInicioV2
+Trex a color antes de windowWidth y windowHeight
